@@ -1,0 +1,112 @@
+[
+  {
+    "originalFile": "scraped-01.jpg",
+    "file": "photos/projekte/neu-angelegter-rasen-und-kiesweg-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Neu angelegter Rasen und Kiesweg",
+    "subjectSlug": "neu-angelegter-rasen-und-kiesweg",
+    "description": "Ein neu angelegter Rasenbereich mit einem Kiesweg und einer Steinmauer, im Hintergrund ist ein Lieferwagen zu sehen.",
+    "leistung": "gartenneugestaltung"
+  },
+  {
+    "originalFile": "api-01.jpg",
+    "file": "photos/projekte/neuer-rollrasen-und-kiesweg-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Neuer Rollrasen und Kiesweg",
+    "subjectSlug": "neuer-rollrasen-und-kiesweg",
+    "description": "Ein frisch verlegter Rollrasen wird von einem dekorativen Kiesweg mit schwarzer Abgrenzung umrahmt.",
+    "leistung": "gartenneugestaltung"
+  },
+  {
+    "originalFile": "api-02.jpg",
+    "file": "photos/baustellen/neuer-rasen-und-rohbau-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Neuer Rasen und Rohbau",
+    "subjectSlug": "neuer-rasen-und-rohbau",
+    "description": "Ein frisch angelegter Rasen vor einem Wohnhaus und einem im Bau befindlichen Anbau.",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-03.jpg",
+    "file": "photos/baustellen/baustelle-pflasterarbeiten-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Baustelle Pflasterarbeiten",
+    "subjectSlug": "baustelle-pflasterarbeiten",
+    "description": "Eine Baustelle, auf der Pflastersteine für eine neue Fläche verlegt werden, mit einem unfertigen Bereich und Randsteinen.",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-04.jpg",
+    "file": "photos/baustellen/baustelle-steinmauer-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Baustelle Steinmauer",
+    "subjectSlug": "baustelle-steinmauer",
+    "description": "Das Foto zeigt den Bau einer Steinmauer auf einer Baustelle mit großen Natursteinblöcken.",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-05.jpg",
+    "file": "photos/baustellen/pflasterarbeiten-im-gange-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Pflasterarbeiten im Gange",
+    "subjectSlug": "pflasterarbeiten-im-gange",
+    "description": "Ein Mann verlegt Pflastersteine auf einer Baustelle für eine neue Fläche.",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-06.jpg",
+    "file": "photos/projekte/garten-mit-pool-und-teich-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Garten mit Pool und Teich",
+    "subjectSlug": "garten-mit-pool-und-teich",
+    "description": "Ein wunderschön angelegter Garten mit einem modernen Pool und einem naturnahen Teich, umgeben von einer Holzterrasse und üppiger Bepflanzung.",
+    "leistung": "gartenneugestaltung"
+  },
+  {
+    "originalFile": "api-07.jpg",
+    "file": "photos/baustellen/baustelle-mit-hausern-und-baumaterial-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Baustelle mit Häusern und Baumaterial",
+    "subjectSlug": "baustelle-mit-hausern-und-baumaterial",
+    "description": "Das Foto zeigt eine Baustelle mit zwei Häusern, Baumaterialien und einer im Bau befindlichen Mauer im Vordergrund.",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-08.jpg",
+    "file": "photos/baustellen/umgesturzter-baumstamm-im-garten-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Umgestürzter Baumstamm im Garten",
+    "subjectSlug": "umgesturzter-baumstamm-im-garten",
+    "description": "Ein umgestürzter Baumstamm liegt in einem Garten, umgeben von Laub und Pflanzen.",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-09.jpg",
+    "file": "photos/baustellen/rohbau-eines-anbaus-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Rohbau eines Anbaus",
+    "subjectSlug": "rohbau-eines-anbaus",
+    "description": "Das Foto zeigt den Rohbau eines Anbaus mit freigelegtem Erdreich im Vordergrund.",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-10.jpg",
+    "file": "photos/baustellen/gefallener-baumast-auf-terrasse-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Gefallener Baumast auf Terrasse",
+    "subjectSlug": "gefallener-baumast-auf-terrasse",
+    "description": "Ein großer Baumast ist auf eine Terrasse gefallen und hat Blätter und Äste verteilt.",
+    "leistung": "keine"
+  }
+]
